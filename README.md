@@ -1,1 +1,2 @@
-this is my frist commint 
+#blog
+this is my first commit 
